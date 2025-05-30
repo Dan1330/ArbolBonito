@@ -1,4 +1,3 @@
-//© Zero - Código libre no comercial
 
 
 // Cargar el SVG y animar los corazones
