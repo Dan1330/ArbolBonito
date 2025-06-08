@@ -69,7 +69,7 @@ function getURLParam(name) {
 function showDedicationText() { //seguidores
   let text = getURLParam('text');
   if (!text) {
-    text = `Para mi noviesita, la petardiña:\n\nDesde el primer momento supe que eras tú. Tu sonrisa, tu voz, tus ojitos bonitos, tu forma de ser… todo en ti me hace sentir en casa.\n\nGracias por acompañarme en cada paso, por entenderme incluso en silencio, y por llenar mis días de amor.\n\nTe amo muchisimo, mi amorsito.`;  } else {
+    text = `Para mi noviesita, la petardiña:\n\nEres como el Wi-Fi: cuando estás cerca, todo funciona mejor. Desde que te conocí, mi corazón hace ping solo por ti. Gracias por aguantar mis tonterías, mis chistes malos, y mi cara de dormido. Prometo seguir haciéndote reír… o al menos intentarlo hasta que me tires una almohada. Te amo más que a la pizza, y eso ya es decir demasiado.\n\nCon amor,`;  } else {
     text = decodeURIComponent(text).replace(/\\n/g, '\n');
   }
   const container = document.getElementById('dedication-text');
