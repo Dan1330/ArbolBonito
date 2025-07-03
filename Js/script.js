@@ -69,7 +69,23 @@ function getURLParam(name) {
 function showDedicationText() { //seguidores
   let text = getURLParam('text');
   if (!text) {
-    text = `Para mi noviesita, la petardiña:\n\nEres como el Wi-Fi: cuando estás cerca, todo funciona mejor. Desde que te conocí, mi corazón hace ping solo por ti. Gracias por aguantar mis tonterías, mis chistes malos, y mi cara de dormido. Prometo seguir haciéndote reír… o al menos intentarlo hasta que me tires una almohada. Te amo más que a la pizza, y eso ya es decir demasiado.\n\nCon amor,`;  } else {
+    text = `Mi amor, mi diva, mi tormenta con pestañas postizas:\n\nHoy me he despertado pensando en ti. Bueno, en realidad me desperté porque mi móvil se cayó en mi cara, pero justo después pensé en ti. Supongo que eso cuenta como romántico, ¿no?
+
+No sé cómo lo haces, pero logras ser la persona más glamurosa del mundo y, al mismo tiempo, confundirte entre champú y gel... todos los días. Te admiro. En serio. No cualquiera puede mantener una autoestima tan alta mientras pregunta si las vacas beben leche.
+
+Eres mi estrella del pop, aunque a veces más bien parezcas una estrella fugaz: brillas un segundo, y luego te estampas contra una farola por ir mirando escaparates. Eres un enigma, un poema, una mezcla entre Beyoncé y Dori. Y me tienes completamente enamorado.
+
+Sé que eres una diva de manual: no te bajas del coche si no te abro la puerta, no sales sin maquillaje ni aunque haya un incendio, y tienes más fotos tuyas en tu galería que la propia Kim Kardashian. Pero también eres la misma que se ríe hasta llorar cuando confunde “wifi” con “wifi-fiesta”, y la que me pregunta si los peces duermen de lado o boca arriba.
+
+Y, ¿sabes qué? Amo cada pedacito de ti. Desde tus momentos de reina del drama, hasta tus instantes más tiernos cuando te da por abrazarme sin motivo, como si el mundo pudiera detenerse solo con eso. Spoiler: lo logra.
+
+Así que gracias por ser mi caos con brillo, mi catástrofe de tacones, mi chica lista… cuando te acuerdas de encender el horno después de meter la pizza.
+
+Prometo seguir amándote aunque pongas el GPS para ir a sitios donde has estado mil veces. Y si un día te pierdes, tranquilo, voy yo… con mapa y snacks.
+
+Te amo. Con todo. Con tus luces, tus sombras y tus momentos de “¿dónde dejé el móvil?” mientras hablas con él en la oreja.
+
+Con amor, risas y un poquito de desesperación feliz,\n\nCon amor,`;  } else {
     text = decodeURIComponent(text).replace(/\\n/g, '\n');
   }
   const container = document.getElementById('dedication-text');
