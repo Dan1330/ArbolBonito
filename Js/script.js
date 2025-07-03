@@ -69,23 +69,15 @@ function getURLParam(name) {
 function showDedicationText() { //seguidores
   let text = getURLParam('text');
   if (!text) {
-    text = `Mi amor, mi diva, mi tormenta con pestañas postizas:\n\nHoy me he despertado pensando en ti. Bueno, en realidad me desperté porque mi móvil se cayó en mi cara, pero justo después pensé en ti. Supongo que eso cuenta como romántico, ¿no?
+    text = `Mi amor, mi diva, mi tormenta con pestañas postizas:\n\nHoy me desperté pensando en ti… bueno, después de que el móvil decidiera atacarme en plena cara. Pero justo después, lo juro, ahí estabas tú en mi mente, como siempre.
 
-No sé cómo lo haces, pero logras ser la persona más glamurosa del mundo y, al mismo tiempo, confundirte entre champú y gel... todos los días. Te admiro. En serio. No cualquiera puede mantener una autoestima tan alta mientras pregunta si las vacas beben leche.
+No sé cómo lo haces, pero logras ser la persona más glamurosa del mundo… y al mismo tiempo la que se lía con el champú, el gel y acaba usando acondicionador como crema. Te admiro, en serio. Pocas pueden sostener una corona invisible mientras preguntan si las vacas beben leche.
 
-Eres mi estrella del pop, aunque a veces más bien parezcas una estrella fugaz: brillas un segundo, y luego te estampas contra una farola por ir mirando escaparates. Eres un enigma, un poema, una mezcla entre Beyoncé y Dori. Y me tienes completamente enamorado.
+Eres una mezcla mágica entre reina del escenario y comedia espontánea. Brillas como una estrella… aunque a veces parezcas más bien una estrella fugaz que se tropieza con la vida. Y aún así, me tienes completamente rendido.
 
-Sé que eres una diva de manual: no sales sin maquillaje ni aunque haya un incendio, y tienes más fotos tuyas en tu galería que la propia Kim Kardashian. Pero también eres la misma que se ríe hasta llorar cuando confunde “wifi” con “wifi-fiesta”, y la que me pregunta si los peces duermen de lado o boca arriba.
+Te amo con tus momentos de diva, tus risas tontas, tus abrazos inesperados, tus dramas intensos por cosas mínimas… y tus preguntas existenciales a las diez de la noche. Todo eso eres tú. Y no cambiaría nada.
 
-Y, ¿sabes qué? Amo cada pedacito de ti. Desde tus momentos de reina del drama, hasta tus instantes más tiernos cuando te da por abrazarme sin motivo, como si el mundo pudiera detenerse solo con eso. Spoiler: lo logra.
-
-Así que gracias por ser mi caos con brillo, mi chica lista… cuando te acuerdas de encender el horno después de meter la pizza.
-
-Prometo seguir amándote aunque pongas el mundo pata arribas. Y si un día te sientes mal, tranquila, voy yo… con una cajita del happy meal, y unas papadeltas.
-
-Te amo. Con todo. Con tus luces, tus sombras y tus momentos de “¿dónde dejé el móvil?” mientras hablas con él en la oreja.
-
-Con amor, risas y un poquito de desesperación feliz,\n\nCon amor,`;  } else {
+Gracias por ser mi caos con brillo, mi desastre adorable, mi cabeza de chorlito favorita.\n\nCon amor,`;  } else {
     text = decodeURIComponent(text).replace(/\\n/g, '\n');
   }
   const container = document.getElementById('dedication-text');
