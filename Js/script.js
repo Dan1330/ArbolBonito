@@ -75,13 +75,13 @@ No sé cómo lo haces, pero logras ser la persona más glamurosa del mundo y, al
 
 Eres mi estrella del pop, aunque a veces más bien parezcas una estrella fugaz: brillas un segundo, y luego te estampas contra una farola por ir mirando escaparates. Eres un enigma, un poema, una mezcla entre Beyoncé y Dori. Y me tienes completamente enamorado.
 
-Sé que eres una diva de manual: no te bajas del coche si no te abro la puerta, no sales sin maquillaje ni aunque haya un incendio, y tienes más fotos tuyas en tu galería que la propia Kim Kardashian. Pero también eres la misma que se ríe hasta llorar cuando confunde “wifi” con “wifi-fiesta”, y la que me pregunta si los peces duermen de lado o boca arriba.
+Sé que eres una diva de manual: no sales sin maquillaje ni aunque haya un incendio, y tienes más fotos tuyas en tu galería que la propia Kim Kardashian. Pero también eres la misma que se ríe hasta llorar cuando confunde “wifi” con “wifi-fiesta”, y la que me pregunta si los peces duermen de lado o boca arriba.
 
 Y, ¿sabes qué? Amo cada pedacito de ti. Desde tus momentos de reina del drama, hasta tus instantes más tiernos cuando te da por abrazarme sin motivo, como si el mundo pudiera detenerse solo con eso. Spoiler: lo logra.
 
-Así que gracias por ser mi caos con brillo, mi catástrofe de tacones, mi chica lista… cuando te acuerdas de encender el horno después de meter la pizza.
+Así que gracias por ser mi caos con brillo, mi chica lista… cuando te acuerdas de encender el horno después de meter la pizza.
 
-Prometo seguir amándote aunque pongas el GPS para ir a sitios donde has estado mil veces. Y si un día te pierdes, tranquilo, voy yo… con mapa y snacks.
+Prometo seguir amándote aunque pongas el mundo pata arribas. Y si un día te sientes mal, tranquila, voy yo… con una cajita del happy meal, y unas papadeltas.
 
 Te amo. Con todo. Con tus luces, tus sombras y tus momentos de “¿dónde dejé el móvil?” mientras hablas con él en la oreja.
 
