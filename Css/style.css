@@ -18,6 +18,10 @@ body {
     pointer-events: none;
 }
 
+html, body {
+  overflow: auto;     /* ✅ Esto activa el scroll automático */
+}
+
 #center-text {
     position: absolute;
     top: 50%;
